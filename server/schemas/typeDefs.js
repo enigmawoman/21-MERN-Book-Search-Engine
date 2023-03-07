@@ -1,5 +1,6 @@
 const { gql } = require('apollo-server-express');
 
+// describing within GraphQL what is available to be queried through  the interface
 const typeDefs = gql`
   type User {
     _id: ID!

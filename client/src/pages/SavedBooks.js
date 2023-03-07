@@ -12,6 +12,7 @@ import { useQuery, useMutation } from "@apollo/client";
 import Auth from "../utils/auth";
 import { removeBookId } from "../utils/localStorage";
 
+// replacing the useEffect with queries and muatations 
 const SavedBooks = () => {
   const { loading, data } = useQuery(GET_ME);
   const [removeBook, { error }] = useMutation(REMOVE_BOOK);
