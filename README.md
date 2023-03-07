@@ -12,7 +12,7 @@ Refactoring code to take a database from using RESTful APIs to using a GraphQL A
 * [Installation](#installation)
 * [Testing](#testing)
 * [Using the code](#using-the-code)
-* [PWA text editor deployment](#pwa-text-editor-deployment)
+* [Book Search Engine deployment](#book-search-engine-deployment)
     * [Deployment Link](#deployment-link)
     * [Screenshot of application](#screenshot-of-deployed-application)
 * [Usage](#usage)
