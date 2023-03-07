@@ -72,7 +72,7 @@ Taking pre-existing code for a book search application and refactoring the code 
 
 
 
-Challenges in this project: biggest challenge with this project, was getting used to making sure i cleared the cache before running up the appication after every code change. I enjoyed learning how PWAs work and how you can implement idb database and caching to enable apps to function even while offline.
+Challenges in this project: getting used the the noSQL MongoDB database - also taking RESTful APIs and converting to GraphQL queries and mutations was a challenge at first - but working through this, i have become more skilled in doing so.
 
 
 ## Installation
